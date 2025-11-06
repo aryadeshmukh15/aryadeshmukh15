@@ -19,11 +19,11 @@ I’m passionate about building efficient, scalable software solutions and enhan
 
 ## 🛠️ Technical Skills
 
-**Languages:** C++, Java, HTML, CSS, JavaScript  
-**Frameworks:** JavaFX, Bootstrap  
-**Database:** MySQL  
-**Tools & IDEs:** Visual Studio Code, Eclipse, Git  
-**Other Skills:** Responsive Web Design, Object-Oriented Programming, Azure Cloud Fundamentals
+Languages: C++, Java, HTML, CSS, JavaScript  
+Frameworks: JavaFX, Bootstrap  
+Database: MySQL  
+Tools & IDEs: Visual Studio Code, Eclipse, Git  
+Other Skills: Responsive Web Design, Object-Oriented Programming, Azure Cloud Fundamentals
 ---
 
 ## 🌍 Languages
