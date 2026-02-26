@@ -3,7 +3,7 @@
 
 📍 Pune, Maharashtra, India  
 📧 [aryadeshmukh1511@gmail.com](mailto:aryadeshmukh1511@gmail.com)  
-🔗 [LinkedIn](http://www.linkedin.com/in/arya-deshmukh1115)) | [GitHub](https://github.com/aryadeshmukh15) | [LeetCode](https://leetcode.com/u/aryades0802/)
+🔗 [LinkedIn](http://www.linkedin.com/in/arya-deshmukh1115) | [GitHub](https://github.com/aryadeshmukh15) | [LeetCode](https://leetcode.com/u/aryades0802/)
 
 ---
 
